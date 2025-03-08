@@ -1,0 +1,17 @@
+Day 15
+Driver Dale is driving PerfCar Mustang-2
+Driver Mario is driving Pickup F-250-3
+Driver Lewis is driving PerfCar Corvette-2
+Driver Dale ranked #7 in the race!
+Driver Mario ranked #9 in the race!
+Driver Lewis ranked #17 in the race!
+$120.00 paid to Uhura for working at FNCD
+$120.00 paid to Scotty for working at FNCD
+$120.00 paid to Spock for working at FNCD
+$90.00 paid to Rachel for working at FNCD
+$100.00 paid to Dale for working at FNCD
+$100.00 paid to Mario for working at FNCD
+$100.00 paid to Lewis for working at FNCD
+$90.00 paid to Ross for working at FNCD
+$90.00 paid to Rachel-2 for working at FNCD
+$60.00 paid to Fred-3 for working at FNCD

@@ -1,0 +1,25 @@
+Day 14
+Intern Lucy-2 tried washing a vehicle.
+Intern Desi-2 tried washing a vehicle.
+Intern Fred-3 tried washing a vehicle.
+Mechanic Uhura tried repairing a vehicle.
+Mechanic Scotty tried repairing a vehicle.
+Mechanic Spock tried repairing a vehicle.
+Salesperson Ross sold a vehicle for $203,947.50
+Salesperson Joey sold a vehicle for $133,276.00
+Salesperson Joey sold a vehicle for $123,418.12
+Salesperson Rachel sold a vehicle for $74,336.00
+Salesperson Joey sold a vehicle for $104,832.00
+Salesperson Joey sold a vehicle for $42,002.00
+$420.00 paid to Uhura for working at FNCD
+$270.00 paid to Scotty for working at FNCD
+$120.00 paid to Spock for working at FNCD
+$490.00 paid to Rachel for working at FNCD
+$100.00 paid to Dale for working at FNCD
+$100.00 paid to Mario for working at FNCD
+$100.00 paid to Lewis for working at FNCD
+$3,440.00 paid to Joey for working at FNCD
+$890.00 paid to Ross for working at FNCD
+$60.00 paid to Lucy-2 for working at FNCD
+$60.00 paid to Desi-2 for working at FNCD
+$60.00 paid to Fred-3 for working at FNCD

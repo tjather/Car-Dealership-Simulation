@@ -1,0 +1,22 @@
+Day 6
+Intern Desi tried washing a vehicle.
+Intern Fred-2 tried washing a vehicle.
+Intern Ethel-2 tried washing a vehicle.
+Mechanic Uhura tried repairing a vehicle.
+Mechanic Scotty tried repairing a vehicle.
+Mechanic Spock tried repairing a vehicle.
+Salesperson Monica sold a vehicle for $66,140.80
+Salesperson Chandler sold a vehicle for $77,420.00
+Salesperson Monica sold a vehicle for $145,842.00
+$840.00 paid to Chandler for working at FNCD
+$620.00 paid to Uhura for working at FNCD
+$720.00 paid to Scotty for working at FNCD
+$820.00 paid to Spock for working at FNCD
+$90.00 paid to Rachel for working at FNCD
+$1,390.00 paid to Monica for working at FNCD
+$100.00 paid to Dale for working at FNCD
+$100.00 paid to Mario for working at FNCD
+$100.00 paid to Lewis for working at FNCD
+$60.00 paid to Desi for working at FNCD
+$60.00 paid to Fred-2 for working at FNCD
+$60.00 paid to Ethel-2 for working at FNCD

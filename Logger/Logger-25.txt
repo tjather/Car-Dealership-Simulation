@@ -1,0 +1,19 @@
+Day 25
+Driver Dale is driving Pickup Ranger-3
+Driver Mario is driving MonsterTrucks Avenger
+Driver Lewis is driving PerfCar Corvette-2
+Driver Dale ranked #4 in the race!
+Driver Mario ranked #13 in the race!
+Driver Lewis ranked #5 in the race!
+$120.00 paid to Spock for working at FNCD
+$100.00 paid to Dale for working at FNCD
+$100.00 paid to Mario for working at FNCD
+$100.00 paid to Lewis for working at FNCD
+$120.00 paid to James-2 for working at FNCD
+$90.00 paid to Chandler-2 for working at FNCD
+$90.00 paid to Monica-2 for working at FNCD
+$90.00 paid to Phoebe-2 for working at FNCD
+$120.00 paid to Scotty-2 for working at FNCD
+$60.00 paid to Lucy-4 for working at FNCD
+$60.00 paid to Desi-4 for working at FNCD
+$60.00 paid to Fred-5 for working at FNCD

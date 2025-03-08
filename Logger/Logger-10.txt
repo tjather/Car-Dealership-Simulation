@@ -1,0 +1,23 @@
+Day 10
+Intern Ethel-2 tried washing a vehicle.
+Intern Lucy-2 tried washing a vehicle.
+Intern Desi-2 tried washing a vehicle.
+Mechanic Uhura tried repairing a vehicle.
+Mechanic Scotty tried repairing a vehicle.
+Mechanic Spock tried repairing a vehicle.
+Salesperson Rachel sold a vehicle for $67,506.00
+Salesperson Rachel sold a vehicle for $143,698.00
+Salesperson Rachel sold a vehicle for $79,460.62
+Salesperson Ross sold a vehicle for $70,976.25
+$420.00 paid to Uhura for working at FNCD
+$520.00 paid to Scotty for working at FNCD
+$120.00 paid to Spock for working at FNCD
+$2,140.00 paid to Rachel for working at FNCD
+$100.00 paid to Dale for working at FNCD
+$100.00 paid to Mario for working at FNCD
+$100.00 paid to Lewis for working at FNCD
+$90.00 paid to Joey for working at FNCD
+$1,090.00 paid to Ross for working at FNCD
+$60.00 paid to Ethel-2 for working at FNCD
+$60.00 paid to Lucy-2 for working at FNCD
+$60.00 paid to Desi-2 for working at FNCD

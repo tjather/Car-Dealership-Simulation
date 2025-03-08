@@ -1,0 +1,21 @@
+Day 30
+Intern Lucy-4 tried washing a vehicle.
+Intern Ethel-5 tried washing a vehicle.
+Intern Lucy-5 tried washing a vehicle.
+Mechanic Spock tried repairing a vehicle.
+Mechanic James-2 tried repairing a vehicle.
+Mechanic Spock-2 tried repairing a vehicle.
+Salesperson Ross-2 sold a vehicle for $31,700.00
+Salesperson Ross-2 sold a vehicle for $30,980.00
+$720.00 paid to Spock for working at FNCD
+$100.00 paid to Dale for working at FNCD
+$100.00 paid to Mario for working at FNCD
+$100.00 paid to Lewis for working at FNCD
+$120.00 paid to James-2 for working at FNCD
+$90.00 paid to Chandler-2 for working at FNCD
+$90.00 paid to Monica-2 for working at FNCD
+$60.00 paid to Lucy-4 for working at FNCD
+$120.00 paid to Spock-2 for working at FNCD
+$1,090.00 paid to Ross-2 for working at FNCD
+$60.00 paid to Ethel-5 for working at FNCD
+$60.00 paid to Lucy-5 for working at FNCD
