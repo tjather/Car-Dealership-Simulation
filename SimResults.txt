@@ -1,0 +1,1508 @@
+>>> Start Simulation Day 1 Thur
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Fred
+Hired a new Intern named Ethel
+Hired a new Intern named Lucy
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Driver named Dale
+Hired a new Driver named Mario
+Hired a new Driver named Lewis
+-----South FNCD-----
+The FNCD is opening...
+Hired a new Intern named Desi
+Hired a new Intern named Fred-2
+Hired a new Intern named Ethel-2
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Driver named AJ
+Hired a new Driver named Shirley
+Hired a new Driver named Kimi
+-----North FNCD-----
+Bought Probe, a Dirty Broken Car for $8,659.00
+Bought Escort, a Dirty Used Car for $8,547.20
+Bought Taurus, a Sparkling LikeNew Car for $12,501.00
+Bought Fiesta, a Clean Used Car for $11,172.00
+Bought Probe-2, a Clean Broken Car for $7,211.50
+Bought Escort-2, a Dirty Used Car for $13,957.60
+Bought Europa, a Dirty Broken PerfCar for $18,585.50
+***Budget overrun*** Added $250K, budget now: $235,321.20
+Bought Cayman, a Dirty LikeNew PerfCar for $34,045.00
+Bought Corvette, a Clean Used PerfCar for $21,780.00
+Bought Mustang, a Dirty Broken PerfCar for $17,382.50
+Bought Europa-2, a Dirty Broken PerfCar for $12,127.50
+Bought Cayman-2, a Dirty Used PerfCar for $21,200.80
+Bought Ranger, a Clean Broken Pickup for $8,231.00
+Bought F-250, a Clean LikeNew Pickup for $23,181.00
+Bought Colorado, a Clean LikeNew Pickup for $31,401.00
+Bought Tundra, a Dirty LikeNew Pickup for $35,214.00
+Bought Ranger-2, a Clean Broken Pickup for $9,523.50
+Bought F-250-2, a Dirty Broken Pickup for $18,383.50
+Bought Taycan, a Dirty Broken ElectricCars for $15,436.00
+***Budget overrun*** Added $250K, budget now: $224,046.00
+Bought Tesla Model 3, a Dirty Used ElectricCars for $47,414.40
+Bought EQS, a Dirty Used ElectricCars for $39,052.00
+Bought BMW i4, a Dirty LikeNew ElectricCars for $57,627.00
+Bought Taycan-2, a Clean LikeNew ElectricCars for $31,860.00
+Bought Tesla Model 3-2, a Clean LikeNew ElectricCars for $49,015.00
+***Budget overrun*** Added $250K, budget now: $244,960.00
+Bought Afterburner, a Dirty LikeNew MonsterTrucks for $51,532.00
+Bought Avenger, a Clean LikeNew MonsterTrucks for $50,568.00
+Bought Bad News Travels Fast, a Dirty Broken MonsterTrucks for $25,293.50
+Bought Batman, a Dirty Broken MonsterTrucks for $36,698.50
+Bought Backwards Bob, a Dirty Broken MonsterTrucks for $34,700.50
+Bought Bear Foot, a Clean Broken MonsterTrucks for $30,265.00
+Bought Yamaka, a Dirty LikeNew Motorcycles for $25,213.00
+Bought Kawasaki, a Dirty Broken Motorcycles for $12,764.50
+Bought Fancy Bicycle, a Dirty Used Motorcycles for $16,113.60
+***Budget overrun*** Added $250K, budget now: $240,992.20
+Bought Slingshot, a Dirty Used Motorcycles for $22,351.20
+Bought Yamaka-2, a Dirty Broken Motorcycles for $15,177.50
+Bought Kawasaki-2, a Clean Broken Motorcycles for $11,944.00
+Bought McLaren, a Clean Used SportsCars for $43,520.80
+Bought Porche, a Clean LikeNew SportsCars for $68,893.00
+Bought Lightning McQueen, a Dirty LikeNew SportsCars for $64,241.00
+***Budget overrun*** Added $250K, budget now: $235,116.90
+Bought McLaren-2, a Clean LikeNew SportsCars for $52,099.00
+Bought Porche-2, a Dirty LikeNew SportsCars for $59,996.00
+Bought Lightning McQueen-2, a Sparkling Used SportsCars for $38,933.60
+Bought Pinewood Derby Car, a Dirty Used DerbyCars for $6,856.80
+Bought Black Beetle, a Dirty Used DerbyCars for $2,772.80
+Bought Speed Demon, a Clean LikeNew DerbyCars for $12,486.00
+Bought Pinewood Derby Car-2, a Clean Broken DerbyCars for $6,842.00
+Bought Black Beetle-2, a Dirty Broken DerbyCars for $3,317.00
+Bought Speed Demon-2, a Dirty LikeNew DerbyCars for $8,155.00
+Bought Aeron Limo, a Dirty Used Limousine for $48,979.20
+Bought Limo Bus, a Dirty Broken Limousine for $32,163.50
+***Budget overrun*** Added $250K, budget now: $215,123.00
+Bought Black Tie Limo, a Dirty Used Limousine for $49,492.00
+Bought Aeron Limo-2, a Dirty Used Limousine for $66,963.20
+Bought Limo Bus-2, a Clean Broken Limousine for $44,201.50
+Bought Black Tie Limo-2, a Clean Used Limousine for $53,987.20
+-----South FNCD-----
+Bought Taurus-2, a Dirty Used Car for $12,804.00
+Bought Fiesta-2, a Dirty LikeNew Car for $19,165.00
+Bought Probe-3, a Clean LikeNew Car for $11,197.00
+Bought Escort-3, a Dirty LikeNew Car for $16,162.00
+Bought Taurus-3, a Dirty Broken Car for $8,176.00
+Bought Fiesta-3, a Dirty LikeNew Car for $18,866.00
+***Budget overrun*** Added $250K, budget now: $248,472.00
+Bought Corvette-2, a Clean Broken PerfCar for $15,158.00
+Bought Mustang-2, a Clean LikeNew PerfCar for $32,117.00
+Bought Europa-3, a Dirty Used PerfCar for $28,957.60
+Bought Cayman-3, a Dirty Broken PerfCar for $17,982.00
+Bought Corvette-3, a Dirty LikeNew PerfCar for $26,150.00
+Bought Mustang-3, a Clean Broken PerfCar for $17,779.00
+Bought Colorado-2, a Dirty Broken Pickup for $5,273.00
+Bought Tundra-2, a Dirty Used Pickup for $20,868.00
+Bought Ranger-3, a Sparkling LikeNew Pickup for $15,258.00
+Bought F-250-3, a Dirty LikeNew Pickup for $22,533.00
+Bought Colorado-3, a Dirty Used Pickup for $10,464.80
+Bought Tundra-3, a Clean LikeNew Pickup for $30,600.00
+***Budget overrun*** Added $250K, budget now: $249,341.60
+Bought EQS-2, a Dirty Broken ElectricCars for $21,148.00
+Bought BMW i4-2, a Dirty LikeNew ElectricCars for $54,548.00
+Bought Taycan-3, a Clean Broken ElectricCars for $22,224.00
+Bought Tesla Model 3-3, a Dirty LikeNew ElectricCars for $41,339.00
+Bought EQS-3, a Dirty Broken ElectricCars for $25,133.50
+Bought BMW i4-3, a Dirty Broken ElectricCars for $23,011.50
+Bought Bigfoot, a Clean LikeNew MonsterTrucks for $76,488.00
+***Budget overrun*** Added $250K, budget now: $215,963.20
+Bought Black Stallion, a Clean Used MonsterTrucks for $40,634.40
+Bought Blacksmith, a Dirty Used MonsterTrucks for $56,533.60
+Bought Blue Thunder, a Dirty Used MonsterTrucks for $54,266.40
+Bought Bounty Hunter, a Dirty Used MonsterTrucks for $55,981.60
+***Budget overrun*** Added $250K, budget now: $249,024.60
+Bought Brutus, a Dirty LikeNew MonsterTrucks for $50,157.00
+Bought Fancy Bicycle-2, a Dirty LikeNew Motorcycles for $34,121.00
+Bought Slingshot-2, a Dirty Broken Motorcycles for $21,926.50
+Bought Yamaka-3, a Clean Broken Motorcycles for $16,580.50
+Bought Kawasaki-3, a Sparkling LikeNew Motorcycles for $49,359.00
+Bought Fancy Bicycle-3, a Dirty Used Motorcycles for $38,296.80
+Bought Slingshot-3, a Clean Used Motorcycles for $17,570.40
+Bought McLaren-3, a Clean LikeNew SportsCars for $44,685.00
+***Budget overrun*** Added $250K, budget now: $231,391.00
+Bought Porche-3, a Clean Used SportsCars for $45,094.40
+Bought Lightning McQueen-3, a Clean Broken SportsCars for $25,903.50
+Bought McLaren-4, a Dirty Broken SportsCars for $32,120.50
+Bought Porche-4, a Dirty Broken SportsCars for $31,564.00
+Bought Lightning McQueen-4, a Clean LikeNew SportsCars for $59,846.00
+Bought Pinewood Derby Car-3, a Dirty Broken DerbyCars for $2,323.00
+Bought Black Beetle-3, a Dirty Broken DerbyCars for $4,669.50
+Bought Speed Demon-3, a Clean LikeNew DerbyCars for $12,269.00
+Bought Pinewood Derby Car-4, a Dirty LikeNew DerbyCars for $13,063.00
+Bought Black Beetle-4, a Clean Used DerbyCars for $1,451.20
+Bought Speed Demon-4, a Clean Used DerbyCars for $6,703.20
+***Budget overrun*** Added $250K, budget now: $231,487.70
+Bought Aeron Limo-3, a Dirty Used Limousine for $59,990.40
+Bought Limo Bus-3, a Clean Used Limousine for $66,252.80
+Bought Black Tie Limo-3, a Dirty LikeNew Limousine for $63,037.00
+Bought Aeron Limo-4, a Dirty Broken Limousine for $30,563.00
+Bought Limo Bus-4, a Dirty Broken Limousine for $39,573.50
+***Budget overrun*** Added $250K, budget now: $196,678.40
+Bought Black Tie Limo-4, a Dirty LikeNew Limousine for $85,383.00
+-----North FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Fred washed Probe Dirty to Clean
+Intern Fred washed Escort Dirty to Clean
+Chemical Washing Method in use
+Intern Ethel washed Escort-2 Dirty to Clean
+Intern Ethel washed Europa Dirty to Clean
+Detailed Washing Method in use
+Intern Lucy washed Cayman Dirty to Dirty
+Intern Lucy washed Mustang Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Desi washed Taurus-2 Dirty to Clean
+Intern Desi washed Fiesta-2 Dirty to Dirty
+Elbow Grease Washing Method in use
+Intern Fred-2 washed Fiesta-2 Dirty to Clean
+Intern Fred-2 washed Escort-3 Dirty to Clean
+Detailed Washing Method in use
+Intern Ethel-2 washed Taurus-3 Dirty to Dirty
+Intern Ethel-2 got a bonus of $20.00!
+Intern Ethel-2 washed Fiesta-3 Dirty to Sparkling
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe Used to LikeNew
+Mechanic Scotty did not fix the Used Fiesta
+Mechanic Spock did not fix the Used Fiesta
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-2 Broken to Used
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Taurus-2 Used to LikeNew
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Taurus-3 Broken to Used
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Taurus-3 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Broken to Used
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Corvette-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Europa-3 Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke wants a Car (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a DerbyCars (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a DerbyCars (NeedsOne)
+Buyer Han decided not to buy.
+Buyer Chewy wants a ElectricCars (WantsOne)
+Buyer Chewy is buying! Salesperson Monica gets a bonus of $800.00!
+Buyer Chewy bought Dirty LikeNew BMW i4 for $115,254.00
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-2 wants a ElectricCars (NeedsOne)
+Buyer Luke-2 is buying! Salesperson Ross gets a bonus of $800.00!
+Buyer Luke-2 bought Dirty LikeNew BMW i4-2 for $109,096.00
+Buyer Leia-2 wants a Car (JustLooking)
+Buyer Leia-2 decided not to buy.
+-----North FNCD-----
+Salesperson Phoebe is leaving the FNCD!
+Intern Fred is now a Salesperson!
+Vehicles in inventory 53
+Vehicles sold count 1
+Money in the budget $162,915.10
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $2,310.00
+Total money earned by the FNCD: $3,472,040.00
+-----South FNCD-----
+Vehicles in inventory 53
+Vehicles sold count 1
+Money in the budget $302,664.40
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,110.00
+Total money earned by the FNCD: -$3,110.00
+>>> End Simulation Day 1 Thur
+
+>>> Start Simulation Day 2 Fri
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Lucy-2
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought Taycan-4, a Clean Used ElectricCars for $27,910.40
+-----South FNCD-----
+Bought Tesla Model 3-4, a Dirty LikeNew ElectricCars for $42,759.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel washed Probe Dirty to Clean
+Intern Ethel washed Escort Dirty to Clean
+Detailed Washing Method in use
+Intern Lucy washed Fiesta Dirty to Clean
+Intern Lucy washed Probe-2 Dirty to Clean
+Detailed Washing Method in use
+Intern Lucy-2 washed Cayman Dirty to Clean
+Intern Lucy-2 washed Europa-2 Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Desi got a bonus of $20.00!
+Intern Desi washed Taurus-2 Dirty to Sparkling
+Intern Desi washed Taurus-3 Dirty to Dirty
+Elbow Grease Washing Method in use
+Intern Fred-2 washed Taurus-3 Dirty to Clean
+Intern Fred-2 washed Corvette-2 Dirty to Clean
+Detailed Washing Method in use
+Intern Ethel-2 washed Europa-3 Dirty to Clean
+Intern Ethel-2 got a bonus of $100.00!
+Intern Ethel-2 washed Cayman-3 Dirty to Sparkling
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-2 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Used to LikeNew
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-3 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-3 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-3 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Colorado-2
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Tundra-2 Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-2 wants a Pickup (NeedsOne)
+Buyer Han-2 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-2 bought Dirty LikeNew Tundra for $70,428.00
+Buyer Chewy-2 wants a Pickup (NeedsOne)
+Buyer Chewy-2 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-2 bought Clean LikeNew Colorado for $62,802.00
+Buyer Luke-3 wants a SportsCars (NeedsOne)
+Buyer Luke-3 is buying! Salesperson Monica gets a bonus of $700.00!
+Buyer Luke-3 bought Clean LikeNew Porche for $137,786.00
+Buyer Leia-3 wants a Motorcycles (WantsOne)
+Buyer Leia-3 is buying! Salesperson Rachel gets a bonus of $400.00!
+Buyer Leia-3 bought Dirty LikeNew Yamaka for $50,426.00
+Buyer Han-3 wants a Pickup (WantsOne)
+Buyer Han-3 decided not to buy.
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-3 wants a ElectricCars (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Joey gets a bonus of $800.00!
+Buyer Chewy-3 bought Dirty LikeNew Tesla Model 3-4 for $85,518.00
+Buyer Luke-4 wants a SportsCars (JustLooking)
+Buyer Luke-4 decided not to buy.
+-----North FNCD-----
+Intern Lucy is leaving the FNCD!
+Vehicles in inventory 50
+Vehicles sold count 5
+Money in the budget $451,536.70
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $4,910.00
+Total money earned by the FNCD: $402,050.00
+-----South FNCD-----
+Vehicles in inventory 53
+Vehicles sold count 2
+Money in the budget $342,113.40
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,310.00
+Total money earned by the FNCD: -$3,310.00
+>>> End Simulation Day 2 Fri
+
+>>> Start Simulation Day 3 Sat
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Desi-2
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought Ranger-4, a Dirty Broken Pickup for $16,262.00
+Bought F-250-4, a Clean Used Pickup for $11,847.20
+Bought Yamaka-4, a Dirty Broken Motorcycles for $15,266.00
+Bought McLaren-5, a Dirty Used SportsCars for $48,398.40
+-----South FNCD-----
+Bought EQS-4, a Dirty LikeNew ElectricCars for $33,457.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel washed Fiesta Dirty to Clean
+Intern Ethel washed Probe-2 Dirty to Clean
+Detailed Washing Method in use
+Intern Lucy-2 washed Escort-2 Dirty to Clean
+Intern Lucy-2 washed Europa Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Desi-2 washed Corvette Dirty to Clean
+Intern Desi-2 washed Cayman-2 Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Desi washed Cayman-3 Dirty to Clean
+Intern Desi washed Corvette-3 Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Fred-2 washed Mustang-3 Dirty to Clean
+Intern Fred-2 washed Colorado-2 Dirty to Clean
+Detailed Washing Method in use
+Intern Ethel-2 washed Tundra-2 Dirty to Dirty
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed F-250-3 Dirty to Sparkling
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Broken to Used
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Colorado-2 Broken to Used
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Colorado-3 Used to LikeNew
+Mechanic James-2 did not fix the Used Colorado-2
+Mechanic James-2 got a bonus of $600.00!
+Mechanic James-2 fixed EQS-2 Broken to Used
+Mechanic Scotty-2 did not fix the Used Colorado-2
+Mechanic Scotty-2 got a bonus of $600.00!
+Mechanic Scotty-2 fixed EQS-2 Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Leia-4 wants a ElectricCars (JustLooking)
+Buyer Leia-4 decided not to buy.
+Buyer Han-4 wants a Limousine (NeedsOne)
+Buyer Han-4 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-4 bought Dirty Used Aeron Limo-2 for $133,926.40
+Buyer Chewy-4 wants a SportsCars (NeedsOne)
+Buyer Chewy-4 is buying! Salesperson Monica gets a bonus of $700.00!
+Buyer Chewy-4 bought Dirty LikeNew Lightning McQueen for $128,482.00
+Buyer Luke-5 wants a MonsterTrucks (NeedsOne)
+Buyer Luke-5 decided not to buy.
+Buyer Leia-5 wants a PerfCar (NeedsOne)
+Buyer Leia-5 is buying! Salesperson Rachel-2 gets a bonus of $1,000.00!
+Buyer Leia-5 bought Clean LikeNew Europa for $69,695.62
+Buyer Han-5 wants a Pickup (JustLooking)
+Buyer Han-5 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-5 bought Clean LikeNew F-250 for $46,362.00
+Buyer Chewy-5 wants a MonsterTrucks (NeedsOne)
+Buyer Chewy-5 is buying! Salesperson Rachel gets a bonus of $900.00!
+Buyer Chewy-5 bought Dirty LikeNew Afterburner for $103,064.00
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-6 wants a Limousine (JustLooking)
+Buyer Luke-6 decided not to buy.
+Buyer Leia-6 wants a ElectricCars (NeedsOne)
+Buyer Leia-6 is buying! Salesperson Chandler gets a bonus of $800.00!
+Buyer Leia-6 bought Dirty LikeNew Tesla Model 3-3 for $82,678.00
+Buyer Han-6 wants a Motorcycles (NeedsOne)
+Buyer Han-6 is buying! Salesperson Chandler gets a bonus of $400.00!
+Buyer Han-6 bought Sparkling LikeNew Kawasaki-3 for $98,718.00
+Buyer Chewy-6 wants a Car (NeedsOne)
+Buyer Chewy-6 is buying! Salesperson Joey gets a bonus of $500.00!
+Buyer Chewy-6 bought Clean LikeNew Fiesta-2 for $38,330.00
+-----North FNCD-----
+Mechanic Spock is leaving the FNCD!
+Intern Lucy-2 is now a Mechanic!
+Salesperson Rachel is leaving the FNCD!
+Intern Desi-2 is now a Salesperson!
+Vehicles in inventory 49
+Vehicles sold count 10
+Money in the budget $834,133.12
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $7,160.00
+Total money earned by the FNCD: $694,096.03
+-----South FNCD-----
+Vehicles in inventory 51
+Vehicles sold count 5
+Money in the budget $523,972.40
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $4,410.00
+Total money earned by the FNCD: -$4,410.00
+>>> End Simulation Day 3 Sat
+
+>>> Start Simulation Day 4 Sun
+-----North FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver Dale is driving PerfCar Cayman
+Driver Mario is driving Motorcycles Slingshot
+Driver Lewis is driving Pickup Ranger
+Driver Dale ranked #10 in the race!
+Driver Mario ranked #20 in the race!
+MotorcyclesSlingshot is now damaged!
+Driver Lewis ranked #15 in the race!
+----- Tracker -----
+Total money earned by staff: $990.00
+Total money earned by the FNCD: -$990.00
+-----South FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver AJ is driving PerfCar Mustang-3
+Driver Shirley is driving Pickup Ranger-3
+Driver Kimi is driving Motorcycles Fancy Bicycle-2
+Driver AJ ranked #9 in the race!
+Driver Shirley ranked #4 in the race!
+Driver Kimi ranked #5 in the race!
+----- Tracker -----
+Total money earned by staff: $1,110.00
+Total money earned by the FNCD: -$1,110.00
+>>> End Simulation Day 4 Sun
+
+>>> Start Simulation Day 5 Mon
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Fred-3
+Hired a new Intern named Ethel-3
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought Europa-4, a Clean LikeNew PerfCar for $36,308.00
+Bought Colorado-4, a Clean LikeNew Pickup for $11,309.00
+Bought Bulldozer, a Clean Broken MonsterTrucks for $27,718.50
+Bought Porche-5, a Clean Used SportsCars for $59,340.00
+Bought Aeron Limo-5, a Dirty Broken Limousine for $33,633.50
+-----South FNCD-----
+Bought Probe-4, a Dirty Used Car for $15,623.20
+Bought BMW i4-4, a Sparkling Broken ElectricCars for $29,281.50
+Bought Kawasaki-4, a Clean LikeNew Motorcycles for $28,796.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Mustang Dirty to Sparkling
+Intern Ethel broke Mustang
+Intern Ethel washed Europa-2 Dirty to Clean
+Chemical Washing Method in use
+Intern Fred-3 washed Cayman-2 Dirty to Clean
+Intern Fred-3 washed Ranger Dirty to Clean
+Chemical Washing Method in use
+Intern Ethel-3 got a bonus of $75.00!
+Intern Ethel-3 washed F-250-2 Dirty to Sparkling
+Intern Ethel-3 washed Taycan Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Desi got a bonus of $75.00!
+Intern Desi washed Colorado-2 Dirty to Sparkling
+Intern Desi washed Tundra-2 Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Fred-2 washed Colorado-3 Dirty to Clean
+Intern Fred-2 washed EQS-2 Dirty to Clean
+Detailed Washing Method in use
+Intern Ethel-2 washed EQS-3 Dirty to Clean
+Intern Ethel-2 washed BMW i4-3 Dirty to Dirty
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Mustang
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger-2 Broken to Used
+Mechanic Spock-2 got a bonus of $300.00!
+Mechanic Spock-2 fixed Mustang Used to LikeNew
+Mechanic Spock-2 got a bonus of $200.00!
+Mechanic Spock-2 fixed Ranger-2 Used to LikeNew
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Colorado-2 Used to LikeNew
+Mechanic Uhura got a bonus of $600.00!
+Mechanic Uhura fixed Taycan-3 Broken to Used
+Mechanic James-2 got a bonus of $600.00!
+Mechanic James-2 fixed Taycan-3 Used to LikeNew
+Mechanic James-2 got a bonus of $600.00!
+Mechanic James-2 fixed EQS-3 Broken to Used
+Mechanic Scotty-2 did not fix the Used EQS-3
+Mechanic Scotty-2 got a bonus of $600.00!
+Mechanic Scotty-2 fixed BMW i4-3 Broken to Used
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-7 wants a SportsCars (JustLooking)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Car (WantsOne)
+Buyer Leia-7 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-7 bought Clean LikeNew Escort-2 for $34,894.00
+Buyer Han-7 wants a Motorcycles (JustLooking)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a Car (WantsOne)
+Buyer Chewy-7 is buying! Salesperson Monica-2 gets a bonus of $500.00!
+Buyer Chewy-7 bought Clean LikeNew Probe for $32,471.25
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+-----North FNCD-----
+Salesperson Rachel-2 is leaving the FNCD!
+Intern Fred-3 is now a Salesperson!
+Vehicles in inventory 52
+Vehicles sold count 12
+Money in the budget $728,889.37
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,310.00
+Total money earned by the FNCD: $64,055.25
+-----South FNCD-----
+Intern Desi is leaving the FNCD!
+Mechanic Scotty-2 is leaving the FNCD!
+Intern Fred-2 is now a Mechanic!
+Salesperson Joey is leaving the FNCD!
+Intern Ethel-2 is now a Salesperson!
+Vehicles in inventory 54
+Vehicles sold count 5
+Money in the budget $445,451.70
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,710.00
+Total money earned by the FNCD: -$3,710.00
+>>> End Simulation Day 5 Mon
+
+>>> Start Simulation Day 6 Tue
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Lucy-3
+-----South FNCD-----
+The FNCD is opening...
+Hired a new Intern named Desi-3
+Hired a new Intern named Fred-4
+Hired a new Intern named Ethel-4
+-----North FNCD-----
+Bought Escort-4, a Dirty Used Car for $8,558.40
+Bought Taurus-4, a Clean Used Car for $10,212.80
+-----South FNCD-----
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel washed Mustang Dirty to Clean
+Intern Ethel washed Ranger Dirty to Clean
+Chemical Washing Method in use
+Intern Ethel-3 got a bonus of $75.00!
+Intern Ethel-3 washed Ranger-2 Dirty to Sparkling
+Intern Ethel-3 washed Tesla Model 3 Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 washed EQS Dirty to Dirty
+Intern Lucy-3 washed Bad News Travels Fast Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Elbow Grease Washing Method in use
+Intern Desi-3 washed Taycan-3 Dirty to Clean
+Intern Desi-3 washed EQS-3 Dirty to Clean
+Detailed Washing Method in use
+Intern Fred-4 washed BMW i4-3 Dirty to Dirty
+Intern Fred-4 washed Blacksmith Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed BMW i4-3 Dirty to Dirty
+Intern Ethel-4 washed Blue Thunder Dirty to Clean
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250-2 Broken to Used
+Mechanic James did not fix the Broken Taycan
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-2 Used to LikeNew
+Mechanic Scotty got a bonus of $600.00!
+Mechanic Scotty fixed Taycan Broken to Used
+Mechanic Spock-2 got a bonus of $600.00!
+Mechanic Spock-2 fixed Taycan Used to LikeNew
+Mechanic Spock-2 got a bonus of $600.00!
+Mechanic Spock-2 fixed Tesla Model 3 Used to LikeNew
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $600.00!
+Mechanic Uhura-2 fixed EQS-3 Used to LikeNew
+Mechanic Uhura-2 got a bonus of $600.00!
+Mechanic Uhura-2 fixed BMW i4-3 Used to LikeNew
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Black Stallion Used to LikeNew
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Blacksmith Used to LikeNew
+Mechanic James-2 did not fix the Used Blue Thunder
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Bounty Hunter Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-8 wants a SportsCars (JustLooking)
+Buyer Luke-8 decided not to buy.
+Buyer Leia-8 wants a SportsCars (WantsOne)
+Buyer Leia-8 decided not to buy.
+Buyer Han-8 wants a Motorcycles (WantsOne)
+Buyer Han-8 is buying! Salesperson Phoebe-2 gets a bonus of $400.00!
+Buyer Han-8 bought Dirty Used Slingshot for $44,702.40
+Buyer Chewy-8 wants a PerfCar (JustLooking)
+Buyer Chewy-8 decided not to buy.
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-9 wants a Motorcycles (JustLooking)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Motorcycles (JustLooking)
+Buyer Leia-9 decided not to buy.
+Buyer Han-9 wants a PerfCar (WantsOne)
+Buyer Han-9 decided not to buy.
+Buyer Chewy-9 wants a DerbyCars (NeedsOne)
+Buyer Chewy-9 is buying! Salesperson Chandler gets a bonus of $100.00!
+Buyer Chewy-9 bought Dirty LikeNew Pinewood Derby Car-4 for $26,126.00
+Buyer Luke-10 wants a Pickup (WantsOne)
+Buyer Luke-10 decided not to buy.
+-----North FNCD-----
+Vehicles in inventory 53
+Vehicles sold count 13
+Money in the budget $751,110.57
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,710.00
+Total money earned by the FNCD: $67,118.40
+-----South FNCD-----
+Vehicles in inventory 53
+Vehicles sold count 6
+Money in the budget $467,667.70
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,910.00
+Total money earned by the FNCD: -$3,910.00
+>>> End Simulation Day 6 Tue
+
+>>> Start Simulation Day 7 Wed
+-----North FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver Dale is driving SportsCars McLaren-2
+Driver Mario is driving SportsCars McLaren
+Driver Lewis is driving DerbyCars Speed Demon
+Driver Dale ranked #3 in the race!
+Dale won $1425
+Driver Mario ranked #20 in the race!
+SportsCarsMcLaren is now damaged!
+Driver Lewis ranked #11 in the race!
+----- Tracker -----
+Total money earned by staff: $3,960.00
+Total money earned by the FNCD: -$2,535.00
+-----South FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver AJ is driving MonsterTrucks Brutus
+Driver Shirley is driving Motorcycles Slingshot-3
+Driver Kimi is driving Motorcycles Fancy Bicycle-3
+Driver AJ ranked #10 in the race!
+Driver Shirley ranked #11 in the race!
+Driver Kimi ranked #3 in the race!
+Kimi won $1319
+----- Tracker -----
+Total money earned by staff: $3,748.00
+Total money earned by the FNCD: -$2,429.00
+>>> End Simulation Day 7 Wed
+
+>>> Start Simulation Day 8 Thur
+-----North FNCD-----
+The FNCD is opening...
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought Fancy Bicycle-4, a Sparkling LikeNew Motorcycles for $30,515.00
+-----South FNCD-----
+Bought Pinewood Derby Car-5, a Dirty Broken DerbyCars for $4,062.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel washed F-250-2 Dirty to Clean
+Intern Ethel washed Taycan Dirty to Clean
+Chemical Washing Method in use
+Intern Ethel-3 washed Tesla Model 3 Dirty to Clean
+Intern Ethel-3 washed EQS Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 washed Batman Dirty to Clean
+Intern Lucy-3 washed Backwards Bob Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Elbow Grease Washing Method in use
+Intern Desi-3 washed EQS-3 Dirty to Clean
+Intern Desi-3 got a bonus of $20.00!
+Intern Desi-3 washed BMW i4-3 Dirty to Sparkling
+Detailed Washing Method in use
+Intern Fred-4 washed Black Stallion Dirty to Clean
+Intern Fred-4 washed Blacksmith Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Blue Thunder Dirty to Clean
+Intern Ethel-4 washed Bounty Hunter Dirty to Clean
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $600.00!
+Mechanic James fixed EQS Used to LikeNew
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Bad News Travels Fast Broken to Used
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Bad News Travels Fast Used to LikeNew
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Batman Broken to Used
+Mechanic Spock-2 got a bonus of $500.00!
+Mechanic Spock-2 fixed Batman Used to LikeNew
+Mechanic Spock-2 got a bonus of $500.00!
+Mechanic Spock-2 fixed Backwards Bob Broken to Used
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $500.00!
+Mechanic Uhura-2 fixed Blue Thunder Used to LikeNew
+Mechanic Uhura-2 got a bonus of $150.00!
+Mechanic Uhura-2 fixed Slingshot-2 Broken to Used
+Mechanic Uhura got a bonus of $150.00!
+Mechanic Uhura fixed Slingshot-2 Used to LikeNew
+Mechanic Uhura got a bonus of $150.00!
+Mechanic Uhura fixed Yamaka-3 Broken to Used
+Mechanic James-2 got a bonus of $150.00!
+Mechanic James-2 fixed Yamaka-3 Used to LikeNew
+Mechanic James-2 got a bonus of $150.00!
+Mechanic James-2 fixed Fancy Bicycle-3 Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-10 wants a Limousine (NeedsOne)
+Buyer Leia-10 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-10 bought Clean Used Black Tie Limo-2 for $107,974.40
+Buyer Han-10 wants a ElectricCars (JustLooking)
+Buyer Han-10 decided not to buy.
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-10 wants a Car (WantsOne)
+Buyer Chewy-10 is buying! Salesperson Chandler-2 gets a bonus of $500.00!
+Buyer Chewy-10 bought Sparkling LikeNew Fiesta-3 for $37,732.00
+Buyer Luke-11 wants a MonsterTrucks (JustLooking)
+Buyer Luke-11 decided not to buy.
+-----North FNCD-----
+Salesperson Monica-2 is leaving the FNCD!
+Intern Ethel is now a Salesperson!
+Vehicles in inventory 53
+Vehicles sold count 14
+Money in the budget $820,824.97
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $5,210.00
+Total money earned by the FNCD: $140,496.40
+-----South FNCD-----
+Salesperson Ross is leaving the FNCD!
+Intern Desi-3 is now a Salesperson!
+Vehicles in inventory 53
+Vehicles sold count 7
+Money in the budget $496,048.70
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $2,860.00
+Total money earned by the FNCD: -$2,860.00
+>>> End Simulation Day 8 Thur
+
+>>> Start Simulation Day 9 Fri
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Lucy-4
+-----South FNCD-----
+The FNCD is opening...
+Hired a new Intern named Desi-4
+-----North FNCD-----
+Bought Limo Bus-5, a Dirty LikeNew Limousine for $89,958.00
+-----South FNCD-----
+Bought Fiesta-4, a Dirty Broken Car for $9,413.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel-3 washed EQS Dirty to Clean
+Intern Ethel-3 washed Bad News Travels Fast Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 washed Batman Dirty to Clean
+Intern Lucy-3 washed Backwards Bob Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-4 washed Kawasaki Dirty to Clean
+Intern Lucy-4 washed Fancy Bicycle Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Fred-4 washed Blue Thunder Dirty to Clean
+Intern Fred-4 washed Brutus Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Fancy Bicycle-2 Dirty to Dirty
+Intern Ethel-4 washed Slingshot-2 Dirty to Clean
+Detailed Washing Method in use
+Intern Desi-4 washed Fancy Bicycle-2 Dirty to Clean
+Intern Desi-4 got a bonus of $5.00!
+Intern Desi-4 washed Yamaka-3 Dirty to Sparkling
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Backwards Bob Used to LikeNew
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Bear Foot Broken to Used
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Bear Foot Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Kawasaki Broken to Used
+Mechanic Spock-2 got a bonus of $150.00!
+Mechanic Spock-2 fixed Kawasaki Used to LikeNew
+Mechanic Spock-2 got a bonus of $150.00!
+Mechanic Spock-2 fixed Fancy Bicycle Used to LikeNew
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $150.00!
+Mechanic Uhura-2 fixed Slingshot-3 Used to LikeNew
+Mechanic Uhura-2 got a bonus of $500.00!
+Mechanic Uhura-2 fixed Porche-3 Used to LikeNew
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Lightning McQueen-3 Broken to Used
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed McLaren-4 Broken to Used
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Lightning McQueen-3 Used to LikeNew
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed McLaren-4 Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-11 wants a Motorcycles (WantsOne)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Pickup (JustLooking)
+Buyer Han-11 is buying! Salesperson Phoebe-2 gets a bonus of $750.00!
+Buyer Han-11 bought Clean LikeNew F-250-2 for $68,938.12
+Buyer Chewy-11 wants a PerfCar (WantsOne)
+Buyer Chewy-11 decided not to buy.
+Buyer Luke-12 wants a MonsterTrucks (WantsOne)
+Buyer Luke-12 decided not to buy.
+Buyer Leia-12 wants a Pickup (JustLooking)
+Buyer Leia-12 is buying! Salesperson Phoebe-2 gets a bonus of $750.00!
+Buyer Leia-12 bought Sparkling LikeNew Ranger-2 for $35,713.12
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-12 wants a ElectricCars (WantsOne)
+Buyer Han-12 is buying! Salesperson Joey-2 gets a bonus of $800.00!
+Buyer Han-12 bought Clean LikeNew EQS-3 for $94,250.62
+Buyer Chewy-12 wants a Limousine (JustLooking)
+Buyer Chewy-12 decided not to buy.
+Buyer Luke-13 wants a PerfCar (NeedsOne)
+Buyer Luke-13 decided not to buy.
+Buyer Leia-13 wants a DerbyCars (NeedsOne)
+Buyer Leia-13 is buying! Salesperson Chandler-2 gets a bonus of $100.00!
+Buyer Leia-13 bought Clean LikeNew Speed Demon-3 for $24,538.00
+Buyer Han-13 wants a SportsCars (WantsOne)
+Buyer Han-13 decided not to buy.
+-----North FNCD-----
+Mechanic James is leaving the FNCD!
+Intern Lucy-4 is now a Mechanic!
+Vehicles in inventory 52
+Vehicles sold count 16
+Money in the budget $830,958.22
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $4,560.00
+Total money earned by the FNCD: $218,879.88
+-----South FNCD-----
+Vehicles in inventory 52
+Vehicles sold count 9
+Money in the budget $600,764.32
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $4,660.00
+Total money earned by the FNCD: -$4,660.00
+>>> End Simulation Day 9 Fri
+
+>>> Start Simulation Day 10 Sat
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Fred-5
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought Tundra-4, a Dirty LikeNew Pickup for $22,235.00
+Bought Ranger-5, a Clean Broken Pickup for $18,516.00
+-----South FNCD-----
+Bought Taycan-5, a Clean Used ElectricCars for $35,513.60
+Bought Black Beetle-5, a Clean LikeNew DerbyCars for $3,241.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel-3 washed Backwards Bob Dirty to Clean
+Intern Ethel-3 washed Bear Foot Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 washed Kawasaki Dirty to Clean
+Intern Lucy-3 broke Kawasaki
+Intern Lucy-3 washed Fancy Bicycle Dirty to Clean
+Detailed Washing Method in use
+Intern Fred-5 washed Yamaka-2 Dirty to Clean
+Intern Fred-5 got a bonus of $20.00!
+Intern Fred-5 washed Porche-2 Dirty to Sparkling
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Fred-4 washed Fancy Bicycle-3 Dirty to Dirty
+Intern Fred-4 washed Slingshot-3 Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Fancy Bicycle-3 Dirty to Clean
+Intern Ethel-4 washed Porche-3 Dirty to Clean
+Detailed Washing Method in use
+Intern Desi-4 washed Lightning McQueen-3 Dirty to Clean
+Intern Desi-4 washed McLaren-4 Dirty to Clean
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Kawasaki Broken to Used
+Mechanic Scotty did not fix the Broken Yamaka-2
+Mechanic Spock-2 did not fix the Used Kawasaki
+Mechanic Spock-2 got a bonus of $150.00!
+Mechanic Spock-2 fixed Yamaka-2 Broken to Used
+Mechanic James-3 got a bonus of $150.00!
+Mechanic James-3 fixed Kawasaki Used to LikeNew
+Mechanic James-3 got a bonus of $150.00!
+Mechanic James-3 fixed Yamaka-2 Used to LikeNew
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $500.00!
+Mechanic Uhura-2 fixed Porche-4 Broken to Used
+Mechanic Uhura-2 got a bonus of $10.00!
+Mechanic Uhura-2 fixed Pinewood Derby Car-3 Broken to Used
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Porche-4 Used to LikeNew
+Mechanic Uhura got a bonus of $10.00!
+Mechanic Uhura fixed Pinewood Derby Car-3 Used to LikeNew
+Mechanic James-2 got a bonus of $10.00!
+Mechanic James-2 fixed Black Beetle-3 Broken to Used
+Mechanic James-2 got a bonus of $10.00!
+Mechanic James-2 fixed Black Beetle-4 Used to LikeNew
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-13 wants a DerbyCars (JustLooking)
+Buyer Chewy-13 decided not to buy.
+Buyer Luke-14 wants a MonsterTrucks (WantsOne)
+Buyer Luke-14 decided not to buy.
+Buyer Leia-14 wants a MonsterTrucks (NeedsOne)
+Buyer Leia-14 is buying! Salesperson Ross-2 gets a bonus of $900.00!
+Buyer Leia-14 bought Clean LikeNew Batman for $137,619.38
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-14 wants a Car (NeedsOne)
+Buyer Han-14 is buying! Salesperson Joey-2 gets a bonus of $500.00!
+Buyer Han-14 bought Clean LikeNew Escort-3 for $32,324.00
+Buyer Chewy-14 wants a Motorcycles (WantsOne)
+Buyer Chewy-14 is buying! Salesperson Chandler-2 gets a bonus of $400.00!
+Buyer Chewy-14 bought Clean LikeNew Fancy Bicycle-3 for $95,742.00
+-----North FNCD-----
+Intern Fred-5 is leaving the FNCD!
+Vehicles in inventory 53
+Vehicles sold count 17
+Money in the budget $925,216.60
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $2,610.00
+Total money earned by the FNCD: $263,075.38
+-----South FNCD-----
+Vehicles in inventory 52
+Vehicles sold count 11
+Money in the budget $687,025.72
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,050.00
+Total money earned by the FNCD: -$3,050.00
+>>> End Simulation Day 10 Sat
+
+>>> Start Simulation Day 11 Sun
+-----North FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver Dale is driving Pickup Ranger
+Driver Mario is driving MonsterTrucks Avenger
+Driver Lewis is driving DerbyCars Pinewood Derby Car
+Driver Dale ranked #13 in the race!
+Driver Mario ranked #11 in the race!
+Driver Lewis ranked #3 in the race!
+Lewis won $1222
+----- Tracker -----
+Total money earned by staff: $3,494.00
+Total money earned by the FNCD: -$2,272.00
+-----South FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver AJ is driving MonsterTrucks Black Stallion
+Driver Shirley is driving DerbyCars Black Beetle-3
+Driver Kimi is driving Motorcycles Kawasaki-4
+Driver AJ ranked #12 in the race!
+Driver Shirley ranked #4 in the race!
+Driver Kimi ranked #1 in the race!
+Kimi won $728
+----- Tracker -----
+Total money earned by staff: $2,566.00
+Total money earned by the FNCD: -$1,838.00
+>>> End Simulation Day 11 Sun
+
+>>> Start Simulation Day 12 Mon
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Ethel-5
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought Captain's Curse, a Clean Broken MonsterTrucks for $31,089.50
+-----South FNCD-----
+Bought Probe-5, a Clean LikeNew Car for $13,258.00
+Bought Slingshot-4, a Clean LikeNew Motorcycles for $25,539.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel-3 washed Kawasaki Dirty to Clean
+Intern Ethel-3 washed Yamaka-2 Dirty to Clean
+Intern Ethel-3 broke Yamaka-2
+Chemical Washing Method in use
+Intern Lucy-3 washed Pinewood Derby Car Dirty to Clean
+Intern Lucy-3 washed Black Beetle Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-5 washed Black Beetle-2 Dirty to Dirty
+Intern Ethel-5 washed Speed Demon-2 Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Detailed Washing Method in use
+Intern Fred-4 washed Porche-4 Dirty to Dirty
+Intern Fred-4 washed Pinewood Derby Car-3 Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Porche-4 Dirty to Clean
+Intern Ethel-4 washed Black Beetle-3 Dirty to Dirty
+Detailed Washing Method in use
+Intern Desi-4 washed Black Beetle-3 Dirty to Clean
+Intern Desi-4 washed Black Beetle-4 Dirty to Clean
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Yamaka-2 Broken to Used
+Mechanic Scotty did not fix the Broken Kawasaki-2
+Mechanic Spock-2 got a bonus of $150.00!
+Mechanic Spock-2 fixed Yamaka-2 Used to LikeNew
+Mechanic Spock-2 did not fix the Broken Kawasaki-2
+Mechanic James-3 got a bonus of $150.00!
+Mechanic James-3 fixed Kawasaki-2 Broken to Used
+Mechanic James-3 got a bonus of $500.00!
+Mechanic James-3 fixed McLaren Used to LikeNew
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 did not fix the Used Black Beetle-3
+Mechanic Uhura-2 got a bonus of $10.00!
+Mechanic Uhura-2 fixed Speed Demon-4 Used to LikeNew
+Mechanic Uhura got a bonus of $10.00!
+Mechanic Uhura fixed Black Beetle-3 Used to LikeNew
+Mechanic Uhura got a bonus of $800.00!
+Mechanic Uhura fixed Aeron Limo-3 Used to LikeNew
+Mechanic James-2 got a bonus of $800.00!
+Mechanic James-2 fixed Limo Bus-3 Used to LikeNew
+Mechanic James-2 did not fix the Broken Aeron Limo-4
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-15 wants a Motorcycles (WantsOne)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Car (JustLooking)
+Buyer Leia-15 decided not to buy.
+Buyer Han-15 wants a PerfCar (NeedsOne)
+Buyer Han-15 is buying! Salesperson Phoebe-2 gets a bonus of $1,000.00!
+Buyer Han-15 bought Clean LikeNew Mustang for $122,220.70
+Buyer Chewy-15 wants a Pickup (JustLooking)
+Buyer Chewy-15 decided not to buy.
+Buyer Luke-16 wants a Motorcycles (JustLooking)
+Buyer Luke-16 decided not to buy.
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-16 wants a MonsterTrucks (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a PerfCar (WantsOne)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a PerfCar (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Joey-2 gets a bonus of $1,000.00!
+Buyer Chewy-16 bought Clean LikeNew Europa-3 for $72,394.00
+Buyer Luke-17 wants a Car (NeedsOne)
+Buyer Luke-17 is buying! Salesperson Joey-2 gets a bonus of $500.00!
+Buyer Luke-17 bought Sparkling LikeNew Taurus-2 for $32,010.00
+Buyer Leia-17 wants a ElectricCars (JustLooking)
+Buyer Leia-17 decided not to buy.
+-----North FNCD-----
+Vehicles in inventory 53
+Vehicles sold count 18
+Money in the budget $1,011,015.80
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,060.00
+Total money earned by the FNCD: $223,564.70
+-----South FNCD-----
+Intern Fred-4 is leaving the FNCD!
+Vehicles in inventory 52
+Vehicles sold count 13
+Money in the budget $746,564.72
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $4,230.00
+Total money earned by the FNCD: -$4,230.00
+>>> End Simulation Day 12 Mon
+
+>>> Start Simulation Day 13 Tue
+-----North FNCD-----
+The FNCD is opening...
+-----South FNCD-----
+The FNCD is opening...
+Hired a new Intern named Lucy-5
+-----North FNCD-----
+Bought Cayman-4, a Clean Broken PerfCar for $14,713.00
+-----South FNCD-----
+Bought Escort-5, a Sparkling Broken Car for $6,897.00
+Bought Corvette-4, a Sparkling LikeNew PerfCar for $39,789.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel-3 washed Yamaka-2 Dirty to Clean
+Intern Ethel-3 washed Kawasaki-2 Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 washed McLaren Dirty to Clean
+Intern Lucy-3 washed Black Beetle-2 Dirty to Clean
+Elbow Grease Washing Method in use
+Intern Ethel-5 washed Aeron Limo Dirty to Clean
+Intern Ethel-5 got a bonus of $500.00!
+Intern Ethel-5 washed Limo Bus Dirty to Sparkling
+-----South FNCD-----
+The FNCD interns are washing...
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Black Beetle-3 Dirty to Clean
+Intern Ethel-4 washed Speed Demon-4 Dirty to Clean
+Detailed Washing Method in use
+Intern Desi-4 washed Aeron Limo-3 Dirty to Clean
+Intern Desi-4 washed Limo Bus-3 Dirty to Dirty
+Chemical Washing Method in use
+Intern Lucy-5 washed Limo Bus-3 Dirty to Clean
+Intern Lucy-5 washed Black Tie Limo-3 Dirty to Clean
+Intern Lucy-5 broke Black Tie Limo-3
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Kawasaki-2 Used to LikeNew
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Lightning McQueen-2 Used to LikeNew
+Mechanic Spock-2 got a bonus of $10.00!
+Mechanic Spock-2 fixed Pinewood Derby Car Used to LikeNew
+Mechanic Spock-2 got a bonus of $10.00!
+Mechanic Spock-2 fixed Black Beetle Used to LikeNew
+Mechanic James-3 did not fix the Broken Pinewood Derby Car-2
+Mechanic James-3 got a bonus of $10.00!
+Mechanic James-3 fixed Black Beetle-2 Broken to Used
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $800.00!
+Mechanic Uhura-2 fixed Black Tie Limo-3 Broken to Used
+Mechanic Uhura-2 got a bonus of $800.00!
+Mechanic Uhura-2 fixed Aeron Limo-4 Broken to Used
+Mechanic Uhura got a bonus of $800.00!
+Mechanic Uhura fixed Black Tie Limo-3 Used to LikeNew
+Mechanic Uhura did not fix the Used Aeron Limo-4
+Mechanic James-2 got a bonus of $800.00!
+Mechanic James-2 fixed Aeron Limo-4 Used to LikeNew
+Mechanic James-2 did not fix the Broken Limo Bus-4
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-17 wants a ElectricCars (NeedsOne)
+Buyer Han-17 is buying! Salesperson Chandler gets a bonus of $800.00!
+Buyer Han-17 bought Sparkling LikeNew BMW i4-3 for $86,293.12
+-----North FNCD-----
+Mechanic Scotty is leaving the FNCD!
+Intern Ethel-5 is now a Mechanic!
+Vehicles in inventory 54
+Vehicles sold count 18
+Money in the budget $994,512.80
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $1,790.00
+Total money earned by the FNCD: $84,503.12
+-----South FNCD-----
+Vehicles in inventory 53
+Vehicles sold count 14
+Money in the budget $781,061.85
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $5,110.00
+Total money earned by the FNCD: -$5,110.00
+>>> End Simulation Day 13 Tue
+
+>>> Start Simulation Day 14 Wed
+-----North FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver Dale is driving SportsCars Porche-2
+Driver Mario is driving MonsterTrucks Bad News Travels Fast
+Driver Lewis is driving Limousine Black Tie Limo
+Driver Dale ranked #19 in the race!
+SportsCarsPorche-2 is now damaged!
+Driver Mario ranked #5 in the race!
+Driver Lewis ranked #10 in the race!
+----- Tracker -----
+Total money earned by staff: $1,050.00
+Total money earned by the FNCD: -$1,050.00
+-----South FNCD-----
+The FNCD is opening... for racing!
+The FNCD drivers are racing...
+Driver AJ is driving Limousine Black Tie Limo-3
+Driver Shirley is driving Pickup Tundra-2
+Driver Kimi is driving Limousine Limo Bus-3
+Driver AJ ranked #2 in the race!
+AJ won $1720
+Driver Shirley ranked #11 in the race!
+Driver Kimi ranked #14 in the race!
+----- Tracker -----
+Total money earned by staff: $4,550.00
+Total money earned by the FNCD: -$2,830.00
+>>> End Simulation Day 14 Wed
+
+>>> Start Simulation Day 15 Thur
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Desi-5
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+-----South FNCD-----
+Bought Tesla Model 3-5, a Dirty LikeNew ElectricCars for $47,339.00
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel-3 washed Kawasaki-2 Dirty to Clean
+Intern Ethel-3 washed Pinewood Derby Car Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 got a bonus of $5.00!
+Intern Lucy-3 washed Black Beetle Dirty to Sparkling
+Intern Lucy-3 washed Pinewood Derby Car-2 Dirty to Clean
+Chemical Washing Method in use
+Intern Desi-5 washed Black Beetle-2 Dirty to Clean
+Intern Desi-5 washed Black Tie Limo Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Black Tie Limo-3 Dirty to Clean
+Intern Ethel-4 got a bonus of $500.00!
+Intern Ethel-4 washed Aeron Limo-4 Dirty to Sparkling
+Detailed Washing Method in use
+Intern Desi-4 washed Limo Bus-4 Dirty to Clean
+Intern Desi-4 washed Black Tie Limo-4 Dirty to Dirty
+Chemical Washing Method in use
+Intern Lucy-5 washed Black Tie Limo-4 Dirty to Clean
+Intern Lucy-5 washed EQS-4 Dirty to Clean
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Spock-2 got a bonus of $10.00!
+Mechanic Spock-2 fixed Pinewood Derby Car-2 Broken to Used
+Mechanic Spock-2 got a bonus of $10.00!
+Mechanic Spock-2 fixed Black Beetle-2 Used to LikeNew
+Mechanic James-3 did not fix the Used Pinewood Derby Car-2
+Mechanic James-3 got a bonus of $800.00!
+Mechanic James-3 fixed Aeron Limo Used to LikeNew
+Mechanic Scotty-3 got a bonus of $10.00!
+Mechanic Scotty-3 fixed Pinewood Derby Car-2 Used to LikeNew
+Mechanic Scotty-3 did not fix the Broken Limo Bus
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $800.00!
+Mechanic Uhura-2 fixed Limo Bus-4 Broken to Used
+Mechanic Uhura-2 got a bonus of $100.00!
+Mechanic Uhura-2 fixed Probe-4 Used to LikeNew
+Mechanic Uhura got a bonus of $800.00!
+Mechanic Uhura fixed Limo Bus-4 Used to LikeNew
+Mechanic Uhura got a bonus of $600.00!
+Mechanic Uhura fixed BMW i4-4 Broken to Used
+Mechanic James-2 did not fix the Used BMW i4-4
+Mechanic James-2 got a bonus of $10.00!
+Mechanic James-2 fixed Pinewood Derby Car-5 Broken to Used
+-----North FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-17 wants a DerbyCars (NeedsOne)
+Buyer Chewy-17 is buying! Salesperson Phoebe-2 gets a bonus of $100.00!
+Buyer Chewy-17 bought Dirty LikeNew Pinewood Derby Car-2 for $25,657.50
+Buyer Luke-18 wants a Pickup (NeedsOne)
+Buyer Luke-18 is buying! Salesperson Ross-2 gets a bonus of $750.00!
+Buyer Luke-18 bought Dirty LikeNew Tundra-4 for $44,470.00
+Buyer Leia-18 wants a Motorcycles (WantsOne)
+Buyer Leia-18 is buying! Salesperson Phoebe-2 gets a bonus of $400.00!
+Buyer Leia-18 bought Clean LikeNew Yamaka-2 for $106,716.80
+Buyer Han-18 wants a ElectricCars (JustLooking)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a SportsCars (WantsOne)
+Buyer Chewy-18 decided not to buy.
+-----South FNCD-----
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-19 wants a DerbyCars (JustLooking)
+Buyer Luke-19 decided not to buy.
+Buyer Leia-19 wants a ElectricCars (JustLooking)
+Buyer Leia-19 decided not to buy.
+-----North FNCD-----
+Intern Desi-5 is leaving the FNCD!
+Vehicles in inventory 51
+Vehicles sold count 21
+Money in the budget $1,167,117.10
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,190.00
+Total money earned by the FNCD: $173,654.30
+-----South FNCD-----
+Vehicles in inventory 54
+Vehicles sold count 14
+Money in the budget $727,472.85
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $3,420.00
+Total money earned by the FNCD: -$3,420.00
+>>> End Simulation Day 15 Thur
+
+>>> Start Simulation Day 31Fri
+-----North FNCD-----
+The FNCD is opening...
+Hired a new Intern named Fred-6
+-----South FNCD-----
+The FNCD is opening...
+-----North FNCD-----
+Bought F-250-5, a Dirty Broken Pickup for $9,527.00
+Bought Yamaka-5, a Sparkling LikeNew Motorcycles for $21,818.00
+Bought Speed Demon-5, a Dirty LikeNew DerbyCars for $3,066.00
+-----South FNCD-----
+-----North FNCD-----
+The FNCD interns are washing...
+Chemical Washing Method in use
+Intern Ethel-3 washed Black Beetle-2 Dirty to Clean
+Intern Ethel-3 washed Aeron Limo Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-3 washed Ranger-4 Dirty to Clean
+Intern Lucy-3 washed Yamaka-4 Dirty to Clean
+Chemical Washing Method in use
+Intern Fred-6 washed McLaren-5 Dirty to Clean
+Intern Fred-6 washed Aeron Limo-5 Dirty to Clean
+-----South FNCD-----
+The FNCD interns are washing...
+Elbow Grease Washing Method in use
+Intern Ethel-4 washed Limo Bus-4 Dirty to Clean
+Intern Ethel-4 washed Probe-4 Dirty to Dirty
+Detailed Washing Method in use
+Intern Desi-4 got a bonus of $20.00!
+Intern Desi-4 washed Probe-4 Dirty to Sparkling
+Intern Desi-4 washed BMW i4-4 Dirty to Clean
+Chemical Washing Method in use
+Intern Lucy-5 got a bonus of $5.00!
+Intern Lucy-5 washed Pinewood Derby Car-5 Dirty to Sparkling
+Intern Lucy-5 washed Fiesta-4 Dirty to Clean
+-----North FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Spock-2 got a bonus of $800.00!
+Mechanic Spock-2 fixed Limo Bus Broken to Used
+Mechanic Spock-2 got a bonus of $800.00!
+Mechanic Spock-2 fixed Black Tie Limo Used to LikeNew
+Mechanic James-3 did not fix the Used Limo Bus
+Mechanic James-3 got a bonus of $800.00!
+Mechanic James-3 fixed Limo Bus-2 Broken to Used
+Mechanic Scotty-3 got a bonus of $800.00!
+Mechanic Scotty-3 fixed Limo Bus Used to LikeNew
+Mechanic Scotty-3 did not fix the Used Limo Bus-2
+-----South FNCD-----
+The FNCD mechanics are repairing...
+Mechanic Uhura-2 got a bonus of $600.00!
+Mechanic Uhura-2 fixed BMW i4-4 Used to LikeNew
+Mechanic Uhura-2 got a bonus of $10.00!
+Mechanic Uhura-2 fixed Pinewood Derby Car-5 Used to LikeNew
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Fiesta-4 Broken to Used
+Mechanic Uhura got a bonus of $600.00!
+Mechanic Uhura fixed Taycan-5 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Fiesta-4 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Escort-5 Broken to Used
+-----North FNCD-----
+The FNCD salespeople are selling...TO YOU!!!
+Select a command:
+1. Select one of the FNCD locations
+2. Ask the salesperson their name 
+3. Ask the salesperson what time it is
+4. Ask for a different salesperson
+5. Ask the salesperson for current store inventory
+6. Ask the salesperson for all details on a user selected inventory item
+7. Buy a normal inventory item from the salesperson
+8. End interactions
+Thank you for shopping!
+-----South FNCD-----
+The FNCD salespeople are selling...TO YOU!!!
+Select a command:
+1. Select one of the FNCD locations
+2. Ask the salesperson their name 
+3. Ask the salesperson what time it is
+4. Ask for a different salesperson
+5. Ask the salesperson for current store inventory
+6. Ask the salesperson for all details on a user selected inventory item
+7. Buy a normal inventory item from the salesperson
+8. End interactions
+Thank you for shopping!
+-----North FNCD-----
+Vehicles in inventory 54
+Vehicles sold count 21
+Money in the budget $1,128,396.10
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $4,310.00
+Total money earned by the FNCD: -$4,310.00
+-----South FNCD-----
+Salesperson Joey-2 is leaving the FNCD!
+Intern Lucy-5 is now a Salesperson!
+Vehicles in inventory 54
+Vehicles sold count 14
+Money in the budget $724,852.85
+That's it for the day.
+----- Tracker -----
+Total money earned by staff: $2,620.00
+Total money earned by the FNCD: -$2,620.00
+>>> End Simulation Day 31 Fri
+
