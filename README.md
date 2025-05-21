@@ -23,7 +23,7 @@ JDK 11
 
 ### **Multi-Branch FNCD Simulation**
 
--The simulation runs for 30 days, managing multiple FNCD branches, handling staff and vehicles dynamically. The simulation results and logs are stored in `SimResults.txt` and `/Logger/`.
+The simulation runs for 30 days, managing multiple FNCD branches, handling staff and vehicles dynamically. The simulation results and logs are stored in `SimResults.txt` and `/Logger/`.
 - There are two dealership locations (North FNCD & South FNCD) operate independently.
 - Each location has its own budget, staff, inventory, and sales performance.
 - Each dealership automatically receive additional funding when needed to prevent.
@@ -39,7 +39,7 @@ JDK 11
   - Interns get promoted when senior staff members leave.
   - Performance-based hiring and firings take place automatically.
 
-### ** Vehicle Inventory & Management**
+### **Vehicle Inventory & Management**
 
 - Vehicles can arrive in 3 different conditions:
   - Broken, Used, Like New
@@ -50,7 +50,7 @@ JDK 11
   - Cleaning and repairs impact resale value.
   - Interns use 3 different washing techniques (Chemical, Elbow Grease, Detailed).
 
-### ** Race Events & Damage Mechanics**
+### **Race Events & Damage Mechanics**
 
 - Race winnings affect FNCD profits.
 - Sundays are exclusive race days and so the FNCD does not operate sales. Rather they do the following:
